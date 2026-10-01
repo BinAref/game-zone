@@ -127,7 +127,7 @@
        <rect x="18" y="18" width="12" height="12"/>
        <rect x="6" y="30" width="12" height="12"/><rect x="30" y="30" width="12" height="12"/>
      </g>
-     <text class="gi-ch-pc" x="24" y="32" text-anchor="middle">\u265E</text>`),q=()=>c("hex",`<g class="gi-hx-cells">
+     <text class="gi-ch-pc" x="24" y="32" text-anchor="middle">\u265E&#xFE0E;</text>`),q=()=>c("hex",`<g class="gi-hx-cells">
        <path d="M24 6 l7 4 v8 l-7 4 -7-4 v-8 z"/>
        <path d="M12 18 l7 4 v8 l-7 4 -7-4 v-8 z"/>
        <path d="M36 18 l7 4 v8 l-7 4 -7-4 v-8 z"/>
